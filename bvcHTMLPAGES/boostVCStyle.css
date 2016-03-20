@@ -102,6 +102,42 @@ li{
     margin-top: 15%;
     margin-left: 80%;
 }
+#boostAboutMobile{
+    display: block;
+    position: absolute;
+    margin-top: 15%;
+    margin-left: 20%;
+}
+#boostProgramsMobile{
+    display: block;
+    position: absolute;
+    margin-top: 25%;
+    margin-left: 20%;
+}
+#boostPeopleMobile{
+    display: block;
+    position: absolute;
+    margin-top: 35%;
+    margin-left: 20%;
+}
+#boostPortfolioMobile{
+    display: block;
+    position: absolute;
+    margin-top: 45%;
+    margin-left: 20%;
+}
+#boostNewsMobile{
+    display: block;
+    position: absolute;
+    margin-top: 55%;
+    margin-left: 20%;
+}
+#boostContact{
+     display: block;
+    position: absolute;
+    margin-top: 65%;
+    margin-left: 20%;
+}
 blockquote.twitter-tweet{
     display: inline-block;
     padding: 16px;
