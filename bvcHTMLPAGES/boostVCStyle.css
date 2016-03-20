@@ -9,7 +9,7 @@ and open the template in the editor.
 */
 body{
     background-color: black;
-    background: -webkit-radial-gradient(80% 20%, center, black, rgba(249, 154, 55, 0.9));
+    font-family: "Verdana", Arial, sans-serif;
 }
 p{
     padding-left: 30px;
@@ -38,17 +38,19 @@ li{
 #col1 {
     display: block;
     position: absolute;
+    margin-top: 100px;
     margin-left: 15%;
 }
 #col2{
     display: block;
     position: absolute;
+    margin-top: 100px;
     margin-left: 50%;
 }
 #navBar{
     display: block;
     top: 100px;
-    padding-left: 100px;
+    margin-left: auto;
 }
 @keyframes buttonHover{
     0% {top: 200px;}
@@ -102,6 +104,48 @@ li{
     margin-top: 15%;
     margin-left: 80%;
 }
+#boostAboutTop{
+    display: block;
+    position: absolute;
+    margin-top: 0%;
+    margin-left: 5%;
+}
+#boostProgramsTop{
+    display: block;
+    position: absolute;
+    margin-top: 0%;
+    margin-left: 20%;
+}
+#boostPeopleTop{
+    display: block;
+    position: absolute;
+    margin-top: 0%;
+    margin-left: 35%;
+}
+#boostIconTop{
+    display: block;
+    position: absolute;
+    margin-top: 0%;
+    margin-left: 46%;
+}
+#boostPortfolioTop{
+    display: block;
+    position: absolute;
+    margin-top: 0%;
+    margin-left: 50%;
+}
+#boostNewsTop{
+    display: block;
+    position: absolute;
+    margin-top: 0%;
+    margin-left: 65%;
+}
+#boostContactTop{
+     display: block;
+    position: absolute;
+    margin-top: 0%;
+    margin-left: 80%;
+}
 #boostAboutMobile{
     display: block;
     position: absolute;
@@ -137,6 +181,12 @@ li{
     position: absolute;
     margin-top: 55%;
     margin-left: 40%;
+}
+#tablePortfolio{
+    margin-top: 150px;
+}
+td{
+    padding: 5px;
 }
 blockquote.twitter-tweet{
     display: inline-block;
