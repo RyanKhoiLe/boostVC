@@ -106,37 +106,37 @@ li{
     display: block;
     position: absolute;
     margin-top: 15%;
-    margin-left: 20%;
+    margin-left: 45%;
 }
 #boostProgramsMobile{
     display: block;
     position: absolute;
-    margin-top: 25%;
-    margin-left: 20%;
+    margin-top: 20%;
+    margin-left: 45%;
 }
 #boostPeopleMobile{
     display: block;
     position: absolute;
-    margin-top: 35%;
-    margin-left: 20%;
+    margin-top: 25%;
+    margin-left: 45%;
 }
 #boostPortfolioMobile{
     display: block;
     position: absolute;
-    margin-top: 45%;
-    margin-left: 20%;
+    margin-top: 30%;
+    margin-left: 45%;
 }
 #boostNewsMobile{
     display: block;
     position: absolute;
-    margin-top: 55%;
-    margin-left: 20%;
+    margin-top: 35%;
+    margin-left: 45%;
 }
-#boostContact{
+#boostContactMobile{
      display: block;
     position: absolute;
-    margin-top: 65%;
-    margin-left: 20%;
+    margin-top: 40%;
+    margin-left: 45%;
 }
 blockquote.twitter-tweet{
     display: inline-block;
