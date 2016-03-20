@@ -105,38 +105,38 @@ li{
 #boostAboutMobile{
     display: block;
     position: absolute;
-    margin-top: 15%;
-    margin-left: 45%;
+    margin-top: 20%;
+    margin-left: 40%;
 }
 #boostProgramsMobile{
     display: block;
     position: absolute;
-    margin-top: 20%;
-    margin-left: 45%;
+    margin-top: 27%;
+    margin-left: 40%;
 }
 #boostPeopleMobile{
     display: block;
     position: absolute;
-    margin-top: 25%;
-    margin-left: 45%;
+    margin-top: 34%;
+    margin-left: 40%;
 }
 #boostPortfolioMobile{
     display: block;
     position: absolute;
-    margin-top: 30%;
-    margin-left: 45%;
+    margin-top: 41%;
+    margin-left: 40%;
 }
 #boostNewsMobile{
     display: block;
     position: absolute;
-    margin-top: 35%;
-    margin-left: 45%;
+    margin-top: 48%;
+    margin-left: 40%;
 }
 #boostContactMobile{
      display: block;
     position: absolute;
-    margin-top: 40%;
-    margin-left: 45%;
+    margin-top: 55%;
+    margin-left: 40%;
 }
 blockquote.twitter-tweet{
     display: inline-block;
