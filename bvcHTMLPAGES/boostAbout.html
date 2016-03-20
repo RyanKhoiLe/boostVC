@@ -45,6 +45,13 @@ BY KHOI LE
                     <li>Opportunity to find a solution to the problem you were set on this earth to solve</li>
         </ul>
         </div>
-        <img src="boostVCWide.jpg" alt="image" style="position: relative; display: block; margin-left: auto; margin-right: auto; top: 200px; width: 1300px; height: 384px; border: 0">
+        <div id="imageContainer" style="border: 1px solid black; margin-left:auto; margin-right: auto; margin-top: 200px;">
+            <script>
+                var imageContainer = document.querySelector("#imageContainer");
+                imageContainer.style.width = window.innerWidth / 2 + "px";
+                imageContainer.style.height = window.innerHeight / 2 + "px";
+            </script>
+        <img src="boostVCWide.jpg" alt="image" style="position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 100%; max-height: 100%px; border: 0">
+        </div>
     </body>
 </html>
